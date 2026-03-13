@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World! Welcome to C# Practice");
-            Console.WriteLine("Hi I am Devi");
+            Console.WriteLine("Hi I am Devi") Console.WriteLine("Hi I am Devi");
+            Console.WriteLine("Hi I am Devi"); Console.WriteLine("Hi I am Devi"); Console.WriteLine("Hi I am Devi"); Console.WriteLine("Hi I am Devi"); Console.WriteLine("Hi I am Devi"); Console.WriteLine("Hi I am Devi");
+
+
         }
     }
 }
